@@ -3,8 +3,8 @@ module github.com/Portshift/kubei
 go 1.13
 
 require (
-	github.com/Portshift/dockle v0.3.2-0.20201118172756-4889c8016f40
-	github.com/Portshift/klar v1.9.10-0.20201213145637-4fdfbc5efe5e
+	github.com/Portshift/dockle v0.3.2-0.20210124074507-adcfbc17bd2b
+	github.com/Portshift/klar v1.9.10-0.20210125125532-e0d4f8c167f9
 	github.com/containers/image/v5 v5.5.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.6.0
